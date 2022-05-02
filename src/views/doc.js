@@ -59,7 +59,7 @@ module.exports = function Doc({ visits }) {
 <body>
   <div class="text-align-center">
     <h1 class="margin-bottom1 font-size-xl">
-      ${ visits } views
+      ${ 次 } views
     </h1>
     <p class="font-size-m">
       测试 <br/> <a href="https://begin.com/forward/scheduled" class="color-white">scheduled functions</a>!
