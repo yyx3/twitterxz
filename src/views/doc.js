@@ -62,7 +62,7 @@ module.exports = function Doc({ visits }) {
       ${ visits } views
     </h1>
     <p class="font-size-m">
-      Now go check out your app's <br/> <a href="https://begin.com/forward/scheduled" class="color-white">scheduled functions</a>!
+      测试 <br/> <a href="https://begin.com/forward/scheduled" class="color-white">scheduled functions</a>!
     </p>
   </div>
 </body>
